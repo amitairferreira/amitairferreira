@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/amitairferreira">
-<img height="165em"  width="45%" src="https://github-readme-stats.vercel.app/api?username=amitairferreira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<img height="165em"  width="40%" src="https://github-readme-stats.vercel.app/api?username=amitairferreira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 <img height="165em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitairferreira&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
