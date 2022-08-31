@@ -1,4 +1,4 @@
-### Oie, sou Amitair Ferreira ! :leaves:
+### Oie, Bem-vindo ! :leaves:
 
 <div>
 <a href="https://github.com/amitairferreira">
