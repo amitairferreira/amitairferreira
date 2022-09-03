@@ -1,9 +1,12 @@
 # <div align = center> Oi, bem-vindo. </div>
 
-<div>
-<a href="https://github.com/amitairferreira">
-<img height="165em"  width="41.5%" src="https://github-readme-stats.vercel.app/api?username=amitairferreira&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-<img height="165em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitairferreira&layout=compact&langs_count=7&theme=calm"/>
+##
+
+<div align = "center">  
+  <a href="https://github.com/amitairferreira">
+    <img height=150px src="https://github-readme-stats.vercel.app/api?username=amitairferreira&show_icons=true&theme=calm&count_private=true&includes_all_commits=true" />
+    <img height = 150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitairferreira&show_icons=true&hide=html&layout=compact&theme=calm" />
+  </a>
 </div>
 
 ##
@@ -13,5 +16,3 @@
 <a href="https://instagram.com/amitairlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href ="https://app.slack.com/client/T1A3A7ADC/C038MPK2MHA/user_profile" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
 </div>
-
-
