@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/amitairferreira">
-<img height="165em"  width="41.5%" src="https://github-readme-stats.vercel.app/api?username=amitairferreira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-<img height="165em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitairferreira&layout=compact&langs_count=7&theme=monokai"/>
+<img height="165em"  width="41.5%" src="https://github-readme-stats.vercel.app/api?username=amitairferreira&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+<img height="165em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitairferreira&layout=compact&langs_count=7&theme=calm"/>
 </div>
 
 ##
