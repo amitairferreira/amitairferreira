@@ -6,12 +6,6 @@
 <img height="165em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitairferreira&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="amitair-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="amitair-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="amitair-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"" />
-</div>
-
 ##
 
 <div>
