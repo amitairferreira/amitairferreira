@@ -1,4 +1,4 @@
-### Oie, Bem-vindo ! :leaves:
+# <div align = center> Oi, bem-vindo. </div>
 
 <div>
 <a href="https://github.com/amitairferreira">
