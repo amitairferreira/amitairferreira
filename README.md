@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💌 jhbdhbebueb: ⤵️
+  Linguagens e BD: ⤵️
 </p>
 
 <p align="left">
@@ -20,11 +20,15 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  Ferramentas: ⤵️
 </p>
 
 <p align="left">
+  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </p>
 
