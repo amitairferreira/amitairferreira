@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Estudante de ADS | Desenvolvedora Back-end Jr | <strong>QA</strong> em formação.<br>
+  Estudante de ADS | <strong>QA</strong> em formação.<br>
  
 </p>
 
